@@ -181,21 +181,16 @@
 
 ## 📱 Contact:
 
-<div align="left">
-    <a href="https://github.com/lucasmarcuzo" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="GitHub-lucasmarcuzo" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/lucasmarcuzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin-lucasmarcuzo" height="30" width="40" />
-    </a>  
-    <a href="https://fb.com/lucasmarcuzzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook-lucasmarcuzzo" height="30" width="40" />
-    </a>   
-    <a href="https://open.spotify.com/user/12186237186" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" alt="Spotify-Lucas-Marcuzo" height="30" width="40" />
-    </a>
-    <a href="https://web.dio.me/users/lucas_marcuzo" target="_blank"><img align="center" src="https://web.dio.me/favicon/favicon-32x32.png" alt="DIO-Lucas-Marcuzo" height="35" width="37" />
-    </a>
-    <a href="https://www.beecrowd.com.br/judge/pt/profile/510115" target="blank"><img align="center" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" alt="Beecrowd-Lucas-Marcuzo" height="40" width="40" />
-    </a>
-  <br>
-</div>
+<p align="left">
+<a href="https://www.linkedin.com/in/gheyson-melo-a46439206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_gheyson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://twitter.com/eitamarilia_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/22xr6wo6be7sgc6nk6tn4ncxi?si=2a5a89dbe7084afc" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" alt="Spotify Gheyson" height="30" width="40" /></a>
+<a href="wa.me/5581999927356" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/whatsapp.svg" alt="Spotify Gheyson" height="30" width="40" /></a>
+<a href="https://judge.beecrowd.com/pt/profile/917990" target="blank"><img align="center" src="https://camo.githubusercontent.com/ffddc405113e7dc1cea84b2dfc7c99efbf2c5b4604f4cb5dfd4aa0bcef9a3e66/68747470733a2f2f7777772e62656563726f77642e636f6d2e62722f6a756467652f66617669636f6e2e69636f3f31363335303937303336" alt="Beecrowd Gheyson" height="30" width="40" /></a>
+    <a href="https://github.com/gheysonmelo" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="GitHub-lucasmarcuzo" height="30" width="40" />
+</p>
+    
 
 
 ## 📃License:
