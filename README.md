@@ -23,6 +23,14 @@
                 <th>PROBLEMA | PROBLEM</th>
                 <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/javascript-icon.png"></img></th>
             </tr>
+            <tr>
+                <td align="left">1020 - Age in days</td>
+                 <td align="center">
+                    <a href="https://github.com/gheysonmelo/beecrowd/blob/main/Desafios%20em%20JavaScript/1020%20-%20Idade%20em%20Dias.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                 </td>
+            </tr>
       </table>
      </div>
 </details>
