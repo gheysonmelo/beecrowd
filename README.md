@@ -178,14 +178,7 @@
 <a href="https://open.spotify.com/user/22xr6wo6be7sgc6nk6tn4ncxi?si=2a5a89dbe7084afc" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" alt="Spotify Gheyson" height="30" width="40" /></a>
 <a href="https://judge.beecrowd.com/pt/profile/917990" target="blank"><img align="center" src="https://camo.githubusercontent.com/ffddc405113e7dc1cea84b2dfc7c99efbf2c5b4604f4cb5dfd4aa0bcef9a3e66/68747470733a2f2f7777772e62656563726f77642e636f6d2e62722f6a756467652f66617669636f6e2e69636f3f31363335303937303336" alt="Beecrowd Gheyson" height="30" width="40" /></a>
     <a href="https://github.com/gheysonmelo" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="GitHub-lucasmarcuzo" height="30" width="40" />
-</p>
-    
-
-
-## 📃License:
-
-[![C# Badge](https://img.shields.io/github/license/lucasmarcuzo/Beecrowd?&link=https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT)](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT)   
-
+</p> 
 
 <div align="right"> <h3> - Thanks for visiting! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> </h3> </div> 
 <p align="right"> 
