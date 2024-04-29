@@ -2,9 +2,16 @@
 
 <h2> Desafios realizados no Beecrowd em JavaScript </h2><br/>
 
-## 📱 Contato: 
+## 📱 Contato | Contact: 
 <br/>
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whiteColor=white&link=https://github.com/lucasmarcuzo)](https://github.com/lucasmarcuzo) [![LinkedIn Badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=white&link=https://www.linkedin.com/in/lucasmarcuzo/)](https://www.linkedin.com/in/lucasmarcuzo/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://facebook.com/LucasMarcuzzo)](https://facebook.com/LucasMarcuzzo) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/lucassolace)](https://twitter.com/lucassolace) [![Spotify Badge]( https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white&https://open.spotify.com/user/12186237186?si=a631a4d1b13b441b)](https://open.spotify.com/user/12186237186?si=a631a4d1b13b441b) [![DIO Badge](https://img.shields.io/badge/Digital%20Inovation%20One-red?style=for-the-badge&link=https://web.dio.me/users/lucas_marcuzo)](https://web.dio.me/users/lucas_marcuzo) [![Beecrowd](https://img.shields.io/badge/beecrowd-purple?style=for-the-badge&link=https://resources.beecrowd.com.br/judge/favicon.ico?1635097036)](https://www.beecrowd.com.br/judge/pt/profile/510115)
+<p align="left">
+<a href="https://www.linkedin.com/in/gheyson-melo-a46439206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_gheyson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://twitter.com/eitamarilia_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/22xr6wo6be7sgc6nk6tn4ncxi?si=2a5a89dbe7084afc" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" alt="Spotify Gheyson" height="30" width="40" /></a>
+<a href="https://judge.beecrowd.com/pt/profile/917990" target="blank"><img align="center" src="https://camo.githubusercontent.com/ffddc405113e7dc1cea84b2dfc7c99efbf2c5b4604f4cb5dfd4aa0bcef9a3e66/68747470733a2f2f7777772e62656563726f77642e636f6d2e62722f6a756467652f66617669636f6e2e69636f3f31363335303937303336" alt="Beecrowd Gheyson" height="30" width="40" /></a>
+    <a href="https://github.com/gheysonmelo" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="GitHub-lucasmarcuzo" height="30" width="40" />
+</p> 
 
 - Thanks for visiting! ✌🏻
