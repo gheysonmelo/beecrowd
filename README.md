@@ -35,7 +35,6 @@
      </div>
 </details>
 
-
 <details>
     <summary><strong> 2 - AD-HOC </strong></summary>
     <br />
@@ -79,7 +78,6 @@
      </div>
 </details>    
     
-
 <details>
     <summary><strong> 4 - ESTRUTURAS E BIBLIOTECAS  | DATA STRUCTURES AND LIBRARIES</strong></summary>
     <br />
@@ -99,8 +97,6 @@
      </table>
      </div>
 </details>
-
-
 
 <details>
     <summary><strong> 5 - MATEMÁTICA | MATHEMATICS</strong></summary>
@@ -122,8 +118,6 @@
      </table>
      </div>
 </details>
-
-
 
 <details>
     <summary><strong> 6 - PARADIGMAS | PARADIGMS </strong></summary>
@@ -163,6 +157,12 @@
                 <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/Postgreesql-icon.png"></img></th>
             </tr>
             <tr>
+            <td align="left">2602 - Select Básico | Basic select</td>
+                 <td align="center">
+                    <a href="/Desafios em SQL/2602 - Select Básico.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                 </td>
            </tr>   
      </table>
      </div>
