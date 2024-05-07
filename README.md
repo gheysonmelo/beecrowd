@@ -172,6 +172,14 @@
                         </a>
                  </td>
            </tr>
+           <tr>
+                <td align="left">2603 - Menores que 10 ou Maiores que 100 | Less than 10 or Greater than 100</td>
+                    <td align="center">
+                        <a href="/Desafios em SQL/2604 - Menores que 10 ou Maiores que 100.sql">
+                            <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                        </a>
+                 </td>
+           </tr>
      </table>
      </div>
 </details>  
