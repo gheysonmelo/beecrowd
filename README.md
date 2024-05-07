@@ -188,6 +188,14 @@
                         </a>
                  </td>
            </tr>
+           <tr>
+                <td align="left">2606 - Categorias | Categories</td>
+                    <td align="center">
+                        <a href="/Desafios em SQL/2606 - Categorias.sql">
+                            <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                        </a>
+                 </td>
+           </tr>
      </table>
      </div>
 </details>  
