@@ -163,13 +163,15 @@
                             <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                         </a>
                  </td>
-                  <td align="left">2603 - Endereço dos Clientes | Clients' addresses</td>
+           </tr>   
+           <tr>
+                <td align="left">2603 - Endereço dos Clientes | Clients' addresses</td>
                     <td align="center">
                         <a href="/Desafios em SQL/2603 - Endereço dos Clientes.sql">
                             <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                         </a>
                  </td>
-           </tr>   
+           </tr>
      </table>
      </div>
 </details>  
