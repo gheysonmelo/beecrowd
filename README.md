@@ -196,6 +196,14 @@
                         </a>
                  </td>
            </tr>
+           <tr>
+                <td align="left">2607 - Cidades em Ordem Alfabética | Cities in Alphabetic Order</td>
+                    <td align="center">
+                        <a href="/Desafios em SQL/2607 - Cidades em Ordem Alfabética.sql">
+                            <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                        </a>
+                 </td>
+           </tr>
      </table>
      </div>
 </details>  
